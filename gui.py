@@ -9,7 +9,6 @@ import matplotlib.patches as patches
 import matplotlib.cm as cm
 from matplotlib.ticker import MaxNLocator
 import copy
-matplotlib.use('tkagg')
 
 
 class RegistrationPointDataAquisition(object):
